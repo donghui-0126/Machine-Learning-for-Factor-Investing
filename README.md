@@ -15,3 +15,6 @@ colab을 기반으로 작성했습니다.
 [py_mlfactor.ipynb](https://github.com/donghui-0126/ml_factor/blob/main/py_mlfactor.ipynb)을 통해서 Factor를 발굴하는게 목적입니다. 
 
 데이터와 모델은 [Data_Model](https://github.com/donghui-0126/ml_factor/tree/main/Data_Model)에 첨부했습니다. 데이터는 드라이브에 옮긴 다음에 사용하시면 됩니다. 
+
+--------
+학회에서 간단하게 설명한 내용입니다. 발표 [PPT](https://github.com/donghui-0126/ml_factor/blob/main/Machine%20Learning%20for%20Factor%20Investing.pdf)도 Repo에 포함되어 있습니다.  
