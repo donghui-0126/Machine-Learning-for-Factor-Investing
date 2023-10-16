@@ -3,4 +3,7 @@
 
 #### [Machine Learning for Factor Investing](https://www.mlfactor.com/index.html)을 기반으로 작성한 Repo입니다. 
 
-####  
+-------
+#### colab을 기반으로 작성했습니다. 
+#### py_mlfactor.ipynb을 통해서 Factor를 발굴하는게 목적입니다. 
+#### 데이터와 모델은 Data_Model에 첨부했습니다. 데이터는 드라이브에 옮시긴다음에 사용하시면 됩니다. 
